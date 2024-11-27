@@ -1,0 +1,14 @@
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\bin\Debug\net8.0\07.1Rechner.exe
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\bin\Debug\net8.0\07.1Rechner.deps.json
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\bin\Debug\net8.0\07.1Rechner.runtimeconfig.json
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\bin\Debug\net8.0\07.1Rechner.dll
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\bin\Debug\net8.0\07.1Rechner.pdb
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.AssemblyInfoInputs.cache
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.AssemblyInfo.cs
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.csproj.CoreCompileInputs.cache
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.dll
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\refint\07.1Rechner.dll
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.pdb
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\07.1Rechner.genruntimeconfig.cache
+C:\Users\HasenkrugAlexander\source\repos\AE-Grundlagen\07.1Rechner\obj\Debug\net8.0\ref\07.1Rechner.dll
